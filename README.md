@@ -1,5 +1,5 @@
 # PythonCalculateAreaofShapes2
-Super Function - Calcualte Area of Different Shapes
+Super Function - Calculate Area of Different Shapes
 
 
 Objective:
