@@ -1,5 +1,9 @@
 # Author: Fransiskus Agapa
 
+# create a main class with shared name variable
+# when a subclass then it can use the variable created from the main class
+# super() - it makes it simpler to create and construct new subclass
+
 # =========================
 class SharedName:
 
